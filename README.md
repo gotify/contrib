@@ -8,3 +8,4 @@ Here you'll find community contributions to the Gotify project.
 - [render-examples/gotify-server](https://github.com/render-examples/gotify-server) A guide to deploying `gotify/server` on [Render](https://render.com).
 - [rorpage/gotify-chrome](https://github.com/rorpage/gotify-chrome) A Chrome extension for sending messages to `gotify/server`.
 - [schwma/gotify-push](https://github.com/schwma/gotify-push) A Python CLI for sending messages to `gotify/server`.
+- [YunoHost-Apps/gotify_ynh](https://github.com/YunoHost-Apps/gotify_ynh) `gotify/server` as package for [YunoHost](https://yunohost.org).
