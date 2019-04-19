@@ -7,3 +7,4 @@ Here you'll find community contributions to the Gotify project.
 - [no-go/NotifyRelay](https://github.com/no-go/NotifyRelay) An Android app for relaying almost all Android messages to `gotify/server`. [F-Droid](https://f-droid.org/packages/click.dummer.notify_to_jabber/)
 - [render-examples/gotify-server](https://github.com/render-examples/gotify-server) A guide to deploying `gotify/server` on [Render](https://render.com).
 - [rorpage/gotify-chrome](https://github.com/rorpage/gotify-chrome) A Chrome extension for sending messages to `gotify/server`.
+- [schwma/gotify-push](https://github.com/schwma/gotify-push) A Python CLI for sending messages to `gotify/server`.
