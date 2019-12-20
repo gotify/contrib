@@ -6,6 +6,7 @@ Here you'll find community contributions to the Gotify project.
 
 - [caronc/apprise](https://github.com/caronc/apprise) A notification library for almost all popular notification services.
 - [denisgolius/zabbix-to-gotify-alert](https://github.com/denisgolius/zabbix-to-gotify-alert) A guide for sending alerts from [Zabbix](https://www.zabbix.com/) to `gotify/server`.
+- [hypervtechnics/gotify-and-caddy-with-systemd](https://gist.github.com/hypervtechnics/9cb28e67aea93cb9b87af5141bc3aa25) Install Gotify with Caddy as reverse proxy and with a systemd service.
 - [marceltransier/gotify-slack](https://github.com/marceltransier/gotify-slack) A Plugin for Slack push notifications.
 - [mskian/ssl-expiry-reminder](https://github.com/mskian/ssl-expiry-reminder) SSL Expiry Reminder -  Get SSL Expiry Notification remainder Alerts on `gotify/server`.
 - [mskian/gotify-apache](https://github.com/mskian/gotify-apache) Install and Configure Gotify without Docker in Apache Server.
