@@ -30,3 +30,4 @@ Here you'll find community contributions to the Gotify project.
 - [ppacher/moziot-gotify-addon](https://github.com/ppacher/moziot-gotify-addon) A Mozilla WoT gateway addon to send notifications via `gotify`.
 - [rorpage/gotify-chrome](https://github.com/rorpage/gotify-chrome) A Chrome extension for sending messages to `gotify/server`.
 - [schwma/gotify-push](https://github.com/schwma/gotify-push) A Python CLI for sending messages to `gotify/server`.
+- [StewartThomson/Gotify-Ext](https://github.com/StewartThomson/Gotify-Ext) A Browser extension for viewing and managing gotify servers
