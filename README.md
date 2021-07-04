@@ -27,6 +27,7 @@ Here you'll find community contributions to the Gotify project.
 - [ajmcateer/GotifyDesktop](https://github.com/ajmcateer/GotifyDesktop) A cross platform Desktop client `gotify/server`.
 - [anup92k/gotify_nagios](https://github.com/anup92k/scripts/tree/master/nagios-plugins/gotify_nagios) A Nagios plugin to send notifications via `gotify`.
 - [cyrinux/imap2gotify](https://github.com/cyrinux/imap2gotify) An email IMAP Idle proxy to `gotify/server`.
+- [desbma/gotify-desktop](https://github.com/desbma/gotify-desktop) Small daemon to send desktop notifications
 - [diddypod/rotify](https://github.com/diddypod/rotify) Send and view Gotify messages via [rofi](https://github.com/davatorium/rofi).
 - [eikendev/action-gotify](https://github.com/eikendev/action-gotify) A GitHub action to send notifications via `gotify/server`.
 - [mskian/ssl-expiry-reminder](https://github.com/mskian/ssl-expiry-reminder) SSL Expiry Reminder - Get SSL Expiry Notification remainder Alerts on `gotify/server`.
