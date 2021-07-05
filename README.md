@@ -20,21 +20,27 @@ Here you'll find community contributions to the Gotify project.
 
 ## Plugins
 
+- [eternal-flame-AD/gotify-broadcast](https://github.com/eternal-flame-AD/gotify-broadcast) A plugin for message broadcasts to multiple users.
 - [marceltransier/gotify-slack](https://github.com/marceltransier/gotify-slack) A plugin for Slack push notifications.
 
 ## Tools / Applications
 
+- [a-bali/janitor](https://github.com/a-bali/janitor) Availability monitoring and alerting for IOT devices.
 - [ajmcateer/GotifyDesktop](https://github.com/ajmcateer/GotifyDesktop) A cross platform Desktop client `gotify/server`.
 - [anup92k/gotify_nagios](https://github.com/anup92k/scripts/tree/master/nagios-plugins/gotify_nagios) A Nagios plugin to send notifications via `gotify`.
+- [crazy-max/diun](https://github.com/crazy-max/diun) Receive notifications when an image is updated on a Docker registry.
 - [cyrinux/imap2gotify](https://github.com/cyrinux/imap2gotify) An email IMAP Idle proxy to `gotify/server`.
 - [desbma/gotify-desktop](https://github.com/desbma/gotify-desktop) Small daemon to send desktop notifications
 - [diddypod/rotify](https://github.com/diddypod/rotify) Send and view Gotify messages via [rofi](https://github.com/davatorium/rofi).
 - [eikendev/action-gotify](https://github.com/eikendev/action-gotify) A GitHub action to send notifications via `gotify/server`.
+- [immanuelfodor/rocketchat-push-gateway](https://github.com/immanuelfodor/rocketchat-push-gateway) A push gateway for RocketChat to send notifications to `gotify/server`.
+- [kha7iq/pingme](https://github.com/kha7iq/pingme) A CLI tool which provides the ability to send messages to multiple messaging platforms.
 - [mskian/ssl-expiry-reminder](https://github.com/mskian/ssl-expiry-reminder) SSL Expiry Reminder - Get SSL Expiry Notification remainder Alerts on `gotify/server`.
 - [no-go/NotifyRelay](https://github.com/no-go/NotifyRelay) An Android app for relaying almost all Android messages to `gotify/server`. [F-Droid](https://f-droid.org/packages/click.dummer.notify_to_jabber/)
 - [ppacher/moziot-gotify-addon](https://github.com/ppacher/moziot-gotify-addon) A Mozilla WoT gateway addon to send notifications via `gotify`.
 - [rakshazi/desktop2gotify](https://gitlab.com/rakshazi/desktop2gotify) A desktop daemon/cli app that reads notifications from dbus and sends them to your gotify, matrix or webhook server
 - [rorpage/gotify-chrome](https://github.com/rorpage/gotify-chrome) A Chrome extension for sending messages to `gotify/server`.
 - [schwma/gotify-push](https://github.com/schwma/gotify-push) A Python CLI for sending messages to `gotify/server`.
+- [scottwallacesh/alertify](https://github.com/scottwallacesh/alertify) AlertManager to Gotify bridge.
 - [StewartThomson/Gotify-Ext](https://github.com/StewartThomson/Gotify-Ext) A Browser extension for viewing and managing gotify servers
 - [ztpnk/gotify-dunst](https://github.com/ztpnk/gotify-dunst) A gotify client for your Linux Desktop 
