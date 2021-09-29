@@ -25,6 +25,10 @@ Here you'll find community contributions to the Gotify project.
 - [tystuyfzand/gotify-mqtt](https://github.com/tystuyfzand/gotify-mqtt) A plugin for MQTT message subscriptions (for IoT and others).
 - [tystuyfzand/gotify-smtp](https://github.com/tystuyfzand/gotify-smtp) A plugin for SMTP ingest of notifications.
 
+## Bash Scripts
+
+- [methatronc/checker](https://github.com/methatronc/checker) A Bash script that will push notifications for running docker images updates to your gotify server.
+
 ## Tools / Applications
 
 - [a-bali/janitor](https://github.com/a-bali/janitor) Availability monitoring and alerting for IOT devices.
