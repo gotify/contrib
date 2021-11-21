@@ -17,6 +17,7 @@ Here you'll find community contributions to the Gotify project.
 
 - [ajmcateer/GotifySharp](https://github.com/ajmcateer/GotifySharp) A C# library for interacting with `gotify/server`.
 - [caronc/apprise](https://github.com/caronc/apprise) A notification library for almost all popular notification services.
+- [VerifiedJoseph/gotify-api-php](https://github.com/caronc/apprise) A PHP library for interacting with `gotify/server`.
 
 ## Plugins
 
