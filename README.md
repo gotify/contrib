@@ -38,6 +38,7 @@ Here you'll find community contributions to the Gotify project.
 - [eikendev/action-gotify](https://github.com/eikendev/action-gotify) A GitHub action to send notifications via `gotify/server`.
 - [immanuelfodor/rocketchat-push-gateway](https://github.com/immanuelfodor/rocketchat-push-gateway) A push gateway for RocketChat to send notifications to `gotify/server`.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) A CLI tool which provides the ability to send messages to multiple messaging platforms.
+- [mattmckenzy/mail2gotify](https://github.com/MattMckenzy/Mail2Gotify) A stand-alone, hosted SMTP server that relays email notifications to `gotify/server`.
 - [methatronc/checker](https://github.com/methatronc/checker) Receive notifications when a running image is updated on the Docker registry.
 - [mskian/ssl-expiry-reminder](https://github.com/mskian/ssl-expiry-reminder) SSL Expiry Reminder - Get SSL Expiry Notification remainder Alerts on `gotify/server`.
 - [no-go/NotifyRelay](https://github.com/no-go/NotifyRelay) An Android app for relaying almost all Android messages to `gotify/server`. [F-Droid](https://f-droid.org/packages/click.dummer.notify_to_jabber/)
