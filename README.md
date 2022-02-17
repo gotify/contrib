@@ -50,6 +50,5 @@ Here you'll find community contributions to the Gotify project.
 - [rakshazi/desktop2gotify](https://gitlab.com/rakshazi/desktop2gotify) A desktop daemon/cli app that reads notifications from dbus and sends them to your gotify, matrix or webhook server
 - [rorpage/gotify-chrome](https://github.com/rorpage/gotify-chrome) A Chrome extension for sending messages to `gotify/server`.
 - [schwma/gotify-push](https://github.com/schwma/gotify-push) A Python CLI for sending messages to `gotify/server`.
-- [scottwallacesh/alertify](https://github.com/scottwallacesh/alertify) AlertManager to Gotify bridge.
 - [StewartThomson/Gotify-Ext](https://github.com/StewartThomson/Gotify-Ext) A Browser extension for viewing and managing gotify servers
 - [ztpnk/gotify-dunst](https://github.com/ztpnk/gotify-dunst) A gotify client for your Linux Desktop 
