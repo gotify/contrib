@@ -54,4 +54,5 @@ Here you'll find community contributions to the Gotify project.
 - [schwma/gotify-push](https://github.com/schwma/gotify-push) A Python CLI for sending messages to `gotify/server`.
 - [sebw/pushtify](https://github.com/sebw/pushtify) Forward Gotify notifications to Pushover.
 - [StewartThomson/Gotify-Ext](https://github.com/StewartThomson/Gotify-Ext) A Browser extension for viewing and managing gotify servers
-- [ztpnk/gotify-dunst](https://github.com/ztpnk/gotify-dunst) A gotify client for your Linux Desktop 
+- [ztpnk/gotify-dunst](https://github.com/ztpnk/gotify-dunst) A gotify client for your Linux Desktop
+- [ojrivera381/SendGotifyMessage](https://github.com/ojrivera381/SendGotifyMessage) A simple Powershell CLI function for sending messages to `gotify/server`.
