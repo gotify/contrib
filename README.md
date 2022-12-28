@@ -47,6 +47,7 @@ Here you'll find community contributions to the Gotify project.
 - [methatronc/checker](https://github.com/methatronc/checker) Receive notifications when a running image is updated on the Docker registry.
 - [mskian/ssl-expiry-reminder](https://github.com/mskian/ssl-expiry-reminder) SSL Expiry Reminder - Get SSL Expiry Notification remainder Alerts on `gotify/server`.
 - [no-go/NotifyRelay](https://github.com/no-go/NotifyRelay) An Android app for relaying almost all Android messages to `gotify/server`. [F-Droid](https://f-droid.org/packages/click.dummer.notify_to_jabber/)
+- [ojrivera381/SendGotifyMessage](https://github.com/ojrivera381/SendGotifyMessage) A simple Powershell CLI function for sending messages to `gotify/server`.
 - [Ondolin/gotify-matrix-bot](https://github.com/Ondolin/gotify-matrix-bot) A small tool to recive gotify messages in a matrix chat.
 - [ppacher/moziot-gotify-addon](https://github.com/ppacher/moziot-gotify-addon) A Mozilla WoT gateway addon to send notifications via `gotify`.
 - [rakshazi/desktop2gotify](https://gitlab.com/rakshazi/desktop2gotify) A desktop daemon/cli app that reads notifications from dbus and sends them to your gotify, matrix or webhook server
@@ -54,4 +55,4 @@ Here you'll find community contributions to the Gotify project.
 - [schwma/gotify-push](https://github.com/schwma/gotify-push) A Python CLI for sending messages to `gotify/server`.
 - [sebw/pushtify](https://github.com/sebw/pushtify) Forward Gotify notifications to Pushover.
 - [StewartThomson/Gotify-Ext](https://github.com/StewartThomson/Gotify-Ext) A Browser extension for viewing and managing gotify servers
-- [ztpnk/gotify-dunst](https://github.com/ztpnk/gotify-dunst) A gotify client for your Linux Desktop 
+- [ztpnk/gotify-dunst](https://github.com/ztpnk/gotify-dunst) A gotify client for your Linux Desktop
