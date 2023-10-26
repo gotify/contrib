@@ -28,6 +28,7 @@ Here you'll find community contributions to the Gotify project.
 - [marceltransier/gotify-slack](https://github.com/marceltransier/gotify-slack) A plugin for Slack push notifications.
 - [tystuyfzand/gotify-mqtt](https://github.com/tystuyfzand/gotify-mqtt) A plugin for MQTT message subscriptions (for IoT and others).
 - [tystuyfzand/gotify-smtp](https://github.com/tystuyfzand/gotify-smtp) A plugin for SMTP ingest of notifications.
+- [AmamiyaHotaru/GotifyToESPDeerAdapter](https://github.com/AmamiyaHotaru/GotifyToESPDeerAdapter) A plugin for forwarding Gotify messages to MQTT for compatibility with [Deeresp](https://github.com/easychen/pushdeer/tree/main/iot) (Pushdeer's IoT version)
 
 ## Tools / Applications
 
