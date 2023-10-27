@@ -23,6 +23,7 @@ Here you'll find community contributions to the Gotify project.
 
 ## Plugins
 
+- [AmamiyaHotaru/GotifyToESPDeerAdapter](https://github.com/AmamiyaHotaru/GotifyToESPDeerAdapter) A plugin for forwarding Gotify messages to MQTT for compatibility with [Deeresp](https://github.com/easychen/pushdeer/tree/main/iot) (Pushdeer's IoT version)
 - [elgonlabs/gotify-emailer](https://github.com/elgonlabs/gotify-emailer) A plugin for sending emails for incoming gotify/server messages.
 - [eternal-flame-AD/gotify-broadcast](https://github.com/eternal-flame-AD/gotify-broadcast) A plugin for message broadcasts to multiple users.
 - [marceltransier/gotify-slack](https://github.com/marceltransier/gotify-slack) A plugin for Slack push notifications.
