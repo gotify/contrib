@@ -35,6 +35,7 @@ Here you'll find community contributions to the Gotify project.
 - [4oo4/email2gotify](https://github.com/4oo4/email2gotify) Simple script to redirect mail output (e.g. from postfix) into a `gotify` push notification.
 - [a-bali/janitor](https://github.com/a-bali/janitor) Availability monitoring and alerting for IOT devices.
 - [ajmcateer/GotifyDesktop](https://github.com/ajmcateer/GotifyDesktop) A cross platform Desktop client `gotify/server`.
+- [androidseb25/iGotify-Notification-Assistent](https://github.com/androidseb25/iGotify-Notification-Assistent) An assistent that sends push notifications to iOS devices for incoming `gotify/server` messages.
 - [anup92k/gotify_nagios](https://github.com/anup92k/scripts/tree/master/nagios-plugins/gotify_nagios) A Nagios plugin to send notifications via `gotify`.
 - [crazy-max/diun](https://github.com/crazy-max/diun) Receive notifications when an image is updated on a Docker registry.
 - [cyrinux/imap2gotify](https://github.com/cyrinux/imap2gotify) An email IMAP Idle proxy to `gotify/server`.
