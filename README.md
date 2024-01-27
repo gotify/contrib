@@ -19,8 +19,8 @@ Here you'll find community contributions to the Gotify project.
 - [caronc/apprise](https://github.com/caronc/apprise) A notification library for almost all popular notification services.
 - [ctlove0523/gotify-java-client](https://github.com/ctlove0523/gotify-java-client) A Java library for interacting with `gotify/server`.
 - [d-k-bo/python-gotify](https://github.com/d-k-bo/python-gotify) A Python module for interacting with `gotify/server`, also available on [PyPI](https://pypi.org/project/gotify/).
-- [VerifiedJoseph/gotify-api-php](https://github.com/VerifiedJoseph/gotify-api-php) A PHP library for interacting with `gotify/server`.
 - [hywax/gotify-client](https://github.com/hywax/gotify-client) A JavaScript library for interacting with `gotify/server`.
+- [VerifiedJoseph/gotify-api-php](https://github.com/VerifiedJoseph/gotify-api-php) A PHP library for interacting with `gotify/server`.
 
 ## Plugins
 
