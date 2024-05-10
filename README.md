@@ -30,6 +30,7 @@ Here you'll find community contributions to the Gotify project.
 - [marceltransier/gotify-slack](https://github.com/marceltransier/gotify-slack) A plugin for Slack push notifications.
 - [tystuyfzand/gotify-mqtt](https://github.com/tystuyfzand/gotify-mqtt) A plugin for MQTT message subscriptions (for IoT and others).
 - [tystuyfzand/gotify-smtp](https://github.com/tystuyfzand/gotify-smtp) A plugin for SMTP ingest of notifications.
+- [anhbh310/gotify2telegram](https://github.com/anhbh310/gotify2telegram) A plugin for forwarding Gotify messages to Telegram through Telegram Bot API.
 
 ## Tools / Applications
 
