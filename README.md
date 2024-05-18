@@ -30,7 +30,7 @@ Here you'll find community contributions to the Gotify project.
 - [eternal-flame-AD/gotify-broadcast](https://github.com/eternal-flame-AD/gotify-broadcast) A plugin for message broadcasts to multiple users.
 - [marceltransier/gotify-slack](https://github.com/marceltransier/gotify-slack) A plugin for Slack push notifications.
 - [MexHigh/Gotify-Webhooks-Plugin](https://github.com/MexHigh/Gotify-Webhooks-Plugin) A plugin for receiving and displaying webhook requests.
-- [thomas-maurice/gotify-nats-plugin](https://github.com/thomas-maurice/gotify-nats-plugin) A plugin to recieve messages sent through [NATS](https://nats.io/)
+- [thomas-maurice/gotify-nats-plugin](https://github.com/thomas-maurice/gotify-nats-plugin) A plugin to receive messages sent through [NATS](https://nats.io/).
 - [tystuyfzand/gotify-mqtt](https://github.com/tystuyfzand/gotify-mqtt) A plugin for MQTT message subscriptions (for IoT and others).
 - [tystuyfzand/gotify-smtp](https://github.com/tystuyfzand/gotify-smtp) A plugin for SMTP ingest of notifications.
 
