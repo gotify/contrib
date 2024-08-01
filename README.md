@@ -28,6 +28,7 @@ Here you'll find community contributions to the Gotify project.
 - [anhbh310/gotify2telegram](https://github.com/anhbh310/gotify2telegram) A plugin for forwarding Gotify messages to Telegram through Telegram Bot API.
 - [elgonlabs/gotify-emailer](https://github.com/elgonlabs/gotify-emailer) A plugin for sending emails for incoming gotify/server messages.
 - [eternal-flame-AD/gotify-broadcast](https://github.com/eternal-flame-AD/gotify-broadcast) A plugin for message broadcasts to multiple users.
+- [LukasKnuth/gotify-slack-webhook](https://github.com/LukasKnuth/gotify-slack-webhook) A plugin to receive Slack Incoming Webhooks in Gotify.
 - [marceltransier/gotify-slack](https://github.com/marceltransier/gotify-slack) A plugin for Slack push notifications.
 - [MexHigh/Gotify-Webhooks-Plugin](https://github.com/MexHigh/Gotify-Webhooks-Plugin) A plugin for receiving and displaying webhook requests.
 - [thomas-maurice/gotify-nats-plugin](https://github.com/thomas-maurice/gotify-nats-plugin) A plugin to receive messages sent through [NATS](https://nats.io/).
@@ -50,6 +51,7 @@ Here you'll find community contributions to the Gotify project.
 - [gigigig/bedrock-docker-gotify](https://github.com/gigigig/bedrock-docker-gotify) Sends Player Events from Minecraft Bedrock Docker Server to `gotify/server`.
 - [immanuelfodor/rocketchat-push-gateway](https://github.com/immanuelfodor/rocketchat-push-gateway) A push gateway for RocketChat to send notifications to `gotify/server`.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) A CLI tool which provides the ability to send messages to multiple messaging platforms.
+- [LukasKnuth/terraform-provider-gotify](https://github.com/LukasKnuth/terraform-provider-gotify) Setup Gotify using Terraform.
 - [mattmckenzy/mail2gotify](https://github.com/MattMckenzy/Mail2Gotify) A stand-alone, hosted SMTP server that relays email notifications to `gotify/server`.
 - [methatronc/checker](https://github.com/methatronc/checker) Receive notifications when a running image is updated on the Docker registry.
 - [mskian/ssl-expiry-reminder](https://github.com/mskian/ssl-expiry-reminder) SSL Expiry Reminder - Get SSL Expiry Notification remainder Alerts on `gotify/server`.
