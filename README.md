@@ -52,6 +52,7 @@ Here you'll find community contributions to the Gotify project.
 - [gigigig/bedrock-docker-gotify](https://github.com/gigigig/bedrock-docker-gotify) Sends Player Events from Minecraft Bedrock Docker Server to `gotify/server`.
 - [immanuelfodor/rocketchat-push-gateway](https://github.com/immanuelfodor/rocketchat-push-gateway) A push gateway for RocketChat to send notifications to `gotify/server`.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) A CLI tool which provides the ability to send messages to multiple messaging platforms.
+- [kisst/gotify-gnome-client](https://github.com/kisst/gotify-gnome-client) A Gotify client for Linux with Gnome desktop
 - [LukasKnuth/terraform-provider-gotify](https://github.com/LukasKnuth/terraform-provider-gotify) Setup Gotify using Terraform.
 - [mattmckenzy/mail2gotify](https://github.com/MattMckenzy/Mail2Gotify) A stand-alone, hosted SMTP server that relays email notifications to `gotify/server`.
 - [methatronc/checker](https://github.com/methatronc/checker) Receive notifications when a running image is updated on the Docker registry.
