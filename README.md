@@ -26,6 +26,7 @@ Here you'll find community contributions to the Gotify project.
 
 - [AmamiyaHotaru/GotifyToESPDeerAdapter](https://github.com/AmamiyaHotaru/GotifyToESPDeerAdapter) A plugin for forwarding Gotify messages to MQTT for compatibility with [Deeresp](https://github.com/easychen/pushdeer/tree/main/iot) (Pushdeer's IoT version)
 - [anhbh310/gotify2telegram](https://github.com/anhbh310/gotify2telegram) A plugin for forwarding Gotify messages to Telegram through Telegram Bot API.
+- [david-kalmakoff/gotify-smtp-emailer](https://github.com/david-kalmakoff/gotify-smtp-emailer) A plugin for forwarding received messages to email through SMTP
 - [elgonlabs/gotify-emailer](https://github.com/elgonlabs/gotify-emailer) A plugin for sending emails for incoming gotify/server messages.
 - [eternal-flame-AD/gotify-broadcast](https://github.com/eternal-flame-AD/gotify-broadcast) A plugin for message broadcasts to multiple users.
 - [LukasKnuth/gotify-slack-webhook](https://github.com/LukasKnuth/gotify-slack-webhook) A plugin to receive Slack Incoming Webhooks in Gotify.
@@ -35,7 +36,6 @@ Here you'll find community contributions to the Gotify project.
 - [thomas-maurice/gotify-nats-plugin](https://github.com/thomas-maurice/gotify-nats-plugin) A plugin to receive messages sent through [NATS](https://nats.io/).
 - [tystuyfzand/gotify-mqtt](https://github.com/tystuyfzand/gotify-mqtt) A plugin for MQTT message subscriptions (for IoT and others).
 - [tystuyfzand/gotify-smtp](https://github.com/tystuyfzand/gotify-smtp) A plugin for SMTP ingest of notifications.
-- [david-kalmakoff/gotify-smtp-emailer](https://github.com/david-kalmakoff/gotify-smtp-emailer) A plugin for forwarding received messages to email through SMTP
 
 ## Tools / Applications
 
