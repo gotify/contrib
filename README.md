@@ -35,6 +35,7 @@ Here you'll find community contributions to the Gotify project.
 - [thomas-maurice/gotify-nats-plugin](https://github.com/thomas-maurice/gotify-nats-plugin) A plugin to receive messages sent through [NATS](https://nats.io/).
 - [tystuyfzand/gotify-mqtt](https://github.com/tystuyfzand/gotify-mqtt) A plugin for MQTT message subscriptions (for IoT and others).
 - [tystuyfzand/gotify-smtp](https://github.com/tystuyfzand/gotify-smtp) A plugin for SMTP ingest of notifications.
+- [david-kalmakoff/gotify-smtp-emailer](https://github.com/david-kalmakoff/gotify-smtp-emailer) A plugin for forwarding received messages to email through SMTP
 
 ## Tools / Applications
 
