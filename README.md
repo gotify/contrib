@@ -26,6 +26,7 @@ Here you'll find community contributions to the Gotify project.
 
 - [AmamiyaHotaru/GotifyToESPDeerAdapter](https://github.com/AmamiyaHotaru/GotifyToESPDeerAdapter) A plugin for forwarding Gotify messages to MQTT for compatibility with [Deeresp](https://github.com/easychen/pushdeer/tree/main/iot) (Pushdeer's IoT version)
 - [anhbh310/gotify2telegram](https://github.com/anhbh310/gotify2telegram) A plugin for forwarding Gotify messages to Telegram through Telegram Bot API.
+- [ckocyigit/gotify-authentik-plugin](https://github.com/ckocyigit/gotify-authentik-plugin) A plugin that allows gotify/server to directly receive and process webhooks from [Authentik](https://github.com/goauthentik/authentik). 
 - [david-kalmakoff/gotify-smtp-emailer](https://github.com/david-kalmakoff/gotify-smtp-emailer) A plugin for forwarding received messages to email through SMTP
 - [elgonlabs/gotify-emailer](https://github.com/elgonlabs/gotify-emailer) A plugin for sending emails for incoming gotify/server messages.
 - [eternal-flame-AD/gotify-broadcast](https://github.com/eternal-flame-AD/gotify-broadcast) A plugin for message broadcasts to multiple users.
