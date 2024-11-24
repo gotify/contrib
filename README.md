@@ -60,6 +60,7 @@ Here you'll find community contributions to the Gotify project.
 - [mattmckenzy/mail2gotify](https://github.com/MattMckenzy/Mail2Gotify) A stand-alone, hosted SMTP server that relays email notifications to `gotify/server`.
 - [methatronc/checker](https://github.com/methatronc/checker) Receive notifications when a running image is updated on the Docker registry.
 - [mskian/ssl-expiry-reminder](https://github.com/mskian/ssl-expiry-reminder) SSL Expiry Reminder - Get SSL Expiry Notification remainder Alerts on `gotify/server`.
+- [n8n.io/n8n](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Gotify) A Gotify integration for the workflow automation tool [n8n](https://n8n.io/) via the [Gotify node](https://n8n.io/integrations/gotify/).
 - [no-go/NotifyRelay](https://github.com/no-go/NotifyRelay) An Android app for relaying almost all Android messages to `gotify/server`. [F-Droid](https://f-droid.org/packages/click.dummer.notify_to_jabber/)
 - [ojrivera381/SendGotifyMessage](https://github.com/ojrivera381/SendGotifyMessage) A simple Powershell CLI function for sending messages to `gotify/server`.
 - [Ondolin/gotify-matrix-bot](https://github.com/Ondolin/gotify-matrix-bot) A small tool to recive gotify messages in a matrix chat.
