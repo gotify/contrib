@@ -54,6 +54,7 @@ Here you'll find community contributions to the Gotify project.
 - [Enchufadoo/gotify-fox](https://github.com/Enchufadoo/gotify-fox) A Firefox addon for sending messages to `gotify/server`.
 - [gigigig/bedrock-docker-gotify](https://github.com/gigigig/bedrock-docker-gotify) Sends Player Events from Minecraft Bedrock Docker Server to `gotify/server`.
 - [immanuelfodor/rocketchat-push-gateway](https://github.com/immanuelfodor/rocketchat-push-gateway) A push gateway for RocketChat to send notifications to `gotify/server`.
+- [JakobST1n/RSS-watcher](https://github.com/JakobST1n/RSS-watcher) Periodically checks RSS feeds for new entries, and pushes those to `gotify/server`.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) A CLI tool which provides the ability to send messages to multiple messaging platforms.
 - [kisst/gotify-gnome-client](https://github.com/kisst/gotify-gnome-client) A Gotify client for Linux with Gnome desktop
 - [LukasKnuth/terraform-provider-gotify](https://github.com/LukasKnuth/terraform-provider-gotify) Setup Gotify using Terraform.
