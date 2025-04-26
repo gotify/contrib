@@ -6,6 +6,7 @@ Here you'll find community contributions to the Gotify project.
 
 ## Guides
 
+- [cyb3rko/gotify-mtls-setup](https://github.com/cyb3rko/gotify-mtls-setup) A guide for setting up mTLS authentication with Gotify and a proxy.
 - [denisgolius/zabbix-to-gotify-alert](https://github.com/denisgolius/zabbix-to-gotify-alert) A guide for sending alerts from [Zabbix](https://www.zabbix.com/) to `gotify/server`.
 - [hypervtechnics/gotify-and-caddy-with-systemd](https://gist.github.com/hypervtechnics/9cb28e67aea93cb9b87af5141bc3aa25) Install Gotify with Caddy as reverse proxy and with a systemd service.
 - [mrspartak/gotify-dc](https://github.com/mrspartak/gotify-dc) 3 steps deploy with docker-compose `gotify/server` + Nginx.
