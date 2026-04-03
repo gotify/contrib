@@ -39,6 +39,8 @@ Here you'll find community contributions to the Gotify project.
 - [marceltransier/gotify-slack](https://github.com/marceltransier/gotify-slack) A plugin for Slack push notifications.
 - [MexHigh/Gotify-Postal-Webhooks-Plugin](https://github.com/MexHigh/Gotify-Postal-Webhooks-Plugin) A plugin for receiving and displaying webhooks from the [Postal mail delivery platform](https://github.com/postalserver/postal). Supports all message types.
 - [MexHigh/Gotify-Webhooks-Plugin](https://github.com/MexHigh/Gotify-Webhooks-Plugin) A plugin for receiving and displaying generic webhook requests.
+- [NilsGriebner/gotify-slack-webhook](https://github.com/NilsGriebner/gotify-slack-webhook) A fork of [LukasKnuth/gotify-slack-webhook](https://github.com/LukasKnuth/gotify-slack-webhook) with builds for current server versions.
+- [NilsGriebner/gotify-to-signal](https://github.com/NilsGriebner/gotify-to-signal) A plugin for forwarding messages to Signal.
 - [ocimea/gotify-alertmanager-plugin](https://codeberg.org/ocimea/gotify-alertmanager-plugin)  A plugin that allows gotify/server to directly receive and process webhooks from prometheus/alertmanager. 
 - [thomas-maurice/gotify-nats-plugin](https://github.com/thomas-maurice/gotify-nats-plugin) A plugin to receive messages sent through [NATS](https://nats.io/).
 - [tystuyfzand/gotify-mqtt](https://github.com/tystuyfzand/gotify-mqtt) A plugin for MQTT message subscriptions (for IoT and others).
