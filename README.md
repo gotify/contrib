@@ -31,6 +31,7 @@ Here you'll find community contributions to the Gotify project.
 - [Barina/gotify-webhookah](https://github.com/Barina/gotify-webhookah) Webhook builder with extra capabilities (like messages with markdown support, domain override, etc).
 - [ckocyigit/gotify-authentik-plugin](https://github.com/ckocyigit/gotify-authentik-plugin) A plugin that allows gotify/server to directly receive and process webhooks from [Authentik](https://github.com/goauthentik/authentik). 
 - [david-kalmakoff/gotify-smtp-emailer](https://github.com/david-kalmakoff/gotify-smtp-emailer) A plugin for forwarding received messages to email through SMTP
+- [drolosoft/gotify-commander](https://github.com/drolosoft/gotify-commander) A bidirectional plugin that executes server commands from Gotify messages — restart services, check system health, view logs — and sends results back as notifications. Includes a web-based control panel.
 - [elgonlabs/gotify-emailer](https://github.com/elgonlabs/gotify-emailer) A plugin for sending emails for incoming gotify/server messages.
 - [eternal-flame-AD/gotify-broadcast](https://github.com/eternal-flame-AD/gotify-broadcast) A plugin for message broadcasts to multiple users.
 - [eternal-flame-AD/gotify-webhook-misskey](https://github.com/eternal-flame-AD/gotify-webhook-misskey) A plugin for receiving notification from federated social networking platform [Misskey](https://github.com/misskey-dev/misskey) with multi-user support.
