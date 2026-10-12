@@ -61,6 +61,7 @@ Here you'll find community contributions to the Gotify project.
 - [DRuggeri/alertmanager_gotify_bridge](https://github.com/DRuggeri/alertmanager_gotify_bridge) A bridge between Prometheus AlertManager and a Gotify server 
 - [eikendev/action-gotify](https://github.com/eikendev/action-gotify) A GitHub action to send notifications via `gotify/server`.
 - [Enchufadoo/gotify-fox](https://github.com/Enchufadoo/gotify-fox) A Firefox addon for sending messages to `gotify/server`.
+- [fclairamb/solidping](https://github.com/fclairamb/solidping) Uptime and synthetic monitoring that sends incident alerts to `gotify/server`.
 - [gigigig/bedrock-docker-gotify](https://github.com/gigigig/bedrock-docker-gotify) Sends Player Events from Minecraft Bedrock Docker Server to `gotify/server`.
 - [immanuelfodor/rocketchat-push-gateway](https://github.com/immanuelfodor/rocketchat-push-gateway) A push gateway for RocketChat to send notifications to `gotify/server`.
 - [JakobST1n/RSS-watcher](https://github.com/JakobST1n/RSS-watcher) Periodically checks RSS feeds for new entries, and pushes those to `gotify/server`.
