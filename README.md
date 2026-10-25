@@ -78,6 +78,7 @@ Here you'll find community contributions to the Gotify project.
 - [ppacher/moziot-gotify-addon](https://github.com/ppacher/moziot-gotify-addon) A Mozilla WoT gateway addon to send notifications via `gotify`.
 - [rakshazi/desktop2gotify](https://gitlab.com/rakshazi/desktop2gotify) A desktop daemon/cli app that reads notifications from dbus and sends them to your gotify, matrix or webhook server
 - [RealZone22/ntfy2gotify](https://github.com/RealZone22/ntfy2gotify) A simple server that acts like a ntfy.sh endpoint but forward topics to Gotify instances.
+- [RedwindA/gotify-desktop](https://github.com/RedwindA/gotify-desktop) A receive-only tray client for Windows, macOS and Linux: native notifications, several servers at once and local message history.
 - [rorpage/gotify-chrome](https://github.com/rorpage/gotify-chrome) A Chrome extension for sending messages to `gotify/server`.
 - [schwma/gotify-push](https://github.com/schwma/gotify-push) A Python CLI for sending messages to `gotify/server`.
 - [sebw/pushtify](https://github.com/sebw/pushtify) Forward Gotify notifications to Pushover.
