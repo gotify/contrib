@@ -49,6 +49,7 @@ Here you'll find community contributions to the Gotify project.
 
 ## Tools / Applications
 
+- [0xzerolight/topic_watch](https://github.com/0xzerolight/topic_watch) Self-hosted news monitor that uses an LLM to only send `gotify/server` notifications on genuinely new information.
 - [4oo4/email2gotify](https://github.com/4oo4/email2gotify) Simple script to redirect mail output (e.g. from postfix) into a `gotify` push notification.
 - [a-bali/janitor](https://github.com/a-bali/janitor) Availability monitoring and alerting for IOT devices.
 - [ajmcateer/GotifyDesktop](https://github.com/ajmcateer/GotifyDesktop) A cross platform Desktop client `gotify/server`.
